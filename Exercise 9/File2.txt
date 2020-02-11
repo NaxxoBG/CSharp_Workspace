@@ -1,0 +1,2 @@
+Please notice the data read from the file is stored in a public string data. This is to make the assignment easier for you.
+Write a C# program, which uses the class above to compare two files. The files shall be read in separate threads running in parallel. The comparison shall be based upon actual data in file and write whether the files are identical in terms of data or different.

@@ -1,0 +1,5 @@
+C:\VitusBering\InetI2.old\Lab\Solutions\Lab03\Complex\obj\Debug\Complex.exe
+C:\VitusBering\InetI2.old\Lab\Solutions\Lab03\Complex\obj\Debug\Complex.pdb
+C:\VitusBering\InetI2.old\Lab\Solutions\Lab03\Complex\bin\Debug\Complex.exe
+C:\VitusBering\InetI2.old\Lab\Solutions\Lab03\Complex\bin\Debug\Complex.pdb
+C:\VitusBering\InetI2.old\Lab\Solutions\Lab03\Complex\obj\Debug\ResolveAssemblyReference.cache

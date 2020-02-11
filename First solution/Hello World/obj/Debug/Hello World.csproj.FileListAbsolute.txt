@@ -1,0 +1,6 @@
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\Hello World\bin\Debug\Hello World.exe.config
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\Hello World\bin\Debug\Hello World.exe
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\Hello World\bin\Debug\Hello World.pdb
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\Hello World\obj\Debug\Hello World.exe
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\Hello World\obj\Debug\Hello World.pdb
+C:\Users\Naxxo\Documents\Visual Studio 2017\Projects\First solution\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache

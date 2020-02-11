@@ -1,0 +1,6 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 3\CompanySystem\bin\Debug\CompanySystem.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 3\CompanySystem\bin\Debug\CompanySystem.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 3\CompanySystem\bin\Debug\CompanySystem.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 3\CompanySystem\obj\Debug\CompanySystem.csprojResolveAssemblyReference.cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 3\CompanySystem\obj\Debug\CompanySystem.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 3\CompanySystem\obj\Debug\CompanySystem.pdb

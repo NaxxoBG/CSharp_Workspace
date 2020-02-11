@@ -1,0 +1,28 @@
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.dll
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.dll
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\ResolveAssemblyReference.cache
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.dll
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.csprojResolveAssemblyReference.cache
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\TestMathLib.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.dll
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\bin\Debug\MathLib.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise2\TestMathLib\obj\Debug\TestMathLib.csprojResolveAssemblyReference.cache

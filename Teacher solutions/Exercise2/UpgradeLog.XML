@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Exercise2">
+</Property><Property Name="Solution File" Value="C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\Exercise2.sln">
+</Property><Property Name="Date" Value="21. februar 2008">
+</Property><Property Name="Time" Value="17:12">
+</Property></Properties><Event ErrorLevel="0" Project="MathLib" Source="MathLib\MathLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MathLib" Source="MathLib\MathLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestMathLib" Source="TestMathLib\TestMathLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestMathLib" Source="TestMathLib\TestMathLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Exercise2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Exercise2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MathLib" Source="MathLib\MathLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TestMathLib" Source="TestMathLib\TestMathLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

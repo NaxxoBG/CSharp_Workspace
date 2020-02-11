@@ -1,0 +1,26 @@
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\INETI2.forår2009\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Uddannelse\INETI2.forår2009\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kf\SkyDrive\VIA\DNPI1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kf\SkyDrive\VIA\DNPI1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

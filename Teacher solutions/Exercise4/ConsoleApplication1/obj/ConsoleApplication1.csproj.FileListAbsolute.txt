@@ -1,0 +1,10 @@
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

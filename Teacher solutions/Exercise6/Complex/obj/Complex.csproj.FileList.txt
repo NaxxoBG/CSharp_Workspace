@@ -1,0 +1,5 @@
+bin\Debug\Complex.exe
+bin\Debug\Complex.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Complex.exe
+obj\Debug\Complex.pdb

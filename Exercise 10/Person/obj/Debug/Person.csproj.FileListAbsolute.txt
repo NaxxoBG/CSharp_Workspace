@@ -1,0 +1,6 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 10\Person\bin\Debug\Person.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 10\Person\bin\Debug\Person.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 10\Person\bin\Debug\Person.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 10\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 10\Person\obj\Debug\Person.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 10\Person\obj\Debug\Person.pdb

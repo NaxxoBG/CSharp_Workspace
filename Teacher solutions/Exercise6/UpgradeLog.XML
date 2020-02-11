@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab3">
+</Property><Property Name="Solution File" Value="C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Lab3.sln">
+</Property><Property Name="User Options File" Value="C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Lab3.suo">
+</Property><Property Name="Date" Value="7. februar 2008">
+</Property><Property Name="Time" Value="14:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab3.sln" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Backup\Lab3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lab3.suo" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Backup\Lab3.suo">
+</Event><Event ErrorLevel="0" Project="Complex" Source="Complex\Complex.csproj" Description="Project file successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Backup\Complex\Complex.csproj">
+</Event><Event ErrorLevel="0" Project="Complex" Source="Complex\Program.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Backup\Complex\Program.cs">
+</Event><Event ErrorLevel="0" Project="Complex" Source="Complex\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Backup\Complex\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Complex" Source="Complex\Complex.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Complex" Source="Complex\Complex.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lab3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Complex" Source="Complex\Complex.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

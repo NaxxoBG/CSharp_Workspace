@@ -1,0 +1,9 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\bin\Release\MathApp.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\bin\Release\MathApp.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\bin\Release\MathApp.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\obj\Release\MathApp.csprojResolveAssemblyReference.cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\obj\Release\MathApp.MathForm.resources
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\obj\Release\MathApp.Properties.Resources.resources
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\obj\Release\MathApp.csproj.GenerateResource.Cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\obj\Release\MathApp.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise12\MathApp\obj\Release\MathApp.pdb

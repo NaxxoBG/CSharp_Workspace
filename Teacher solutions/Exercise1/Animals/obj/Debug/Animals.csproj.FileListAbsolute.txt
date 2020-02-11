@@ -1,0 +1,4 @@
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\Animals\bin\Debug\Animals.dll
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\Animals\bin\Debug\Animals.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\Animals\obj\Debug\Animals.dll
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\Animals\obj\Debug\Animals.pdb

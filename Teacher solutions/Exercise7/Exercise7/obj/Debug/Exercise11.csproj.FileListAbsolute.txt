@@ -1,0 +1,5 @@
+C:\Uddannelse\VIA\ACP\BasisExercises\Exercise11\Exercise11\bin\Debug\Exercise11.exe
+C:\Uddannelse\VIA\ACP\BasisExercises\Exercise11\Exercise11\bin\Debug\Exercise11.pdb
+C:\Uddannelse\VIA\ACP\BasisExercises\Exercise11\Exercise11\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\VIA\ACP\BasisExercises\Exercise11\Exercise11\obj\Debug\Exercise11.exe
+C:\Uddannelse\VIA\ACP\BasisExercises\Exercise11\Exercise11\obj\Debug\Exercise11.pdb

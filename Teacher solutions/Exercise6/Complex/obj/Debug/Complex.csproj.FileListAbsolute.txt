@@ -1,0 +1,17 @@
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Complex\bin\Debug\Complex.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Complex\bin\Debug\Complex.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise6\Complex\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise6\Complex\bin\Debug\Complex.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise6\Complex\bin\Debug\Complex.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise6\Complex\obj\Debug\ResolveAssemblyReference.cache
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise6\Complex\bin\Debug\Complex.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise6\Complex\bin\Debug\Complex.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise6\Complex\obj\Debug\Complex.pdb

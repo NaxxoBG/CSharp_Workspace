@@ -1,0 +1,5 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 7, 8\Exercise 8\bin\Debug\Exercise 8.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 7, 8\Exercise 8\bin\Debug\Exercise 8.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 7, 8\Exercise 8\bin\Debug\Exercise 8.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 7, 8\Exercise 8\obj\Debug\Exercise 8.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 7, 8\Exercise 8\obj\Debug\Exercise 8.pdb

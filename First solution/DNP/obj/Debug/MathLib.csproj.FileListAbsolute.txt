@@ -1,0 +1,4 @@
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\DNP\bin\Debug\DNP.dll
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\DNP\bin\Debug\DNP.pdb
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\DNP\obj\Debug\DNP.dll
+c:\users\naxxo\documents\visual studio 2017\Projects\First solution\DNP\obj\Debug\DNP.pdb

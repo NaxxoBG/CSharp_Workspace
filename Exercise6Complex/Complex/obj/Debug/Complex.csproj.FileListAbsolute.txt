@@ -1,0 +1,6 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise6Complex\Complex\bin\Debug\Complex.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise6Complex\Complex\bin\Debug\Complex.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise6Complex\Complex\bin\Debug\Complex.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise6Complex\Complex\obj\Debug\Complex.csprojResolveAssemblyReference.cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise6Complex\Complex\obj\Debug\Complex.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise6Complex\Complex\obj\Debug\Complex.pdb

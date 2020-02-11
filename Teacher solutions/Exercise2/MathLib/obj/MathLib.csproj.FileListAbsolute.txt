@@ -1,0 +1,5 @@
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\MathLib\bin\Debug\MathLib.dll
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\MathLib\bin\Debug\MathLib.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\MathLib\obj\Debug\ResolveAssemblyReference.cache
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\MathLib\obj\Debug\MathLib.dll
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise2\MathLib\obj\Debug\MathLib.pdb

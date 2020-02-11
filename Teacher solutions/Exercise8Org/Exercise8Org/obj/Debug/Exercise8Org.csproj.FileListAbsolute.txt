@@ -1,0 +1,15 @@
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\bin\Debug\Exercise8Org.exe.config
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.csprojResolveAssemblyReference.cache
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\bin\Debug\Exercise8Org.exe
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\bin\Debug\Exercise8Org.pdb
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.exe
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.pdb
+C:\Users\kf\SkyDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\bin\Debug\Exercise8Org.exe.config
+C:\Users\kf\SkyDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.exe
+C:\Users\kf\SkyDrive\VIA\DNPI1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.pdb
+C:\Users\kf\SkyDrive\VIA\DNP1\Exercises\Solutions\Exercise8Org\Exercise8Org\bin\Debug\Exercise8Org.exe.config
+C:\Users\kf\SkyDrive\VIA\DNP1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.exe
+C:\Users\kf\SkyDrive\VIA\DNP1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise8Org\Exercise8Org\bin\Debug\Exercise8Org.exe.config
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise8Org\Exercise8Org\obj\Debug\Exercise8Org.pdb

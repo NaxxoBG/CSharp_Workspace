@@ -1,0 +1,6 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 11\TCP Client\bin\Debug\TCP Client.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 11\TCP Client\bin\Debug\TCP Client.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 11\TCP Client\bin\Debug\TCP Client.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 11\TCP Client\obj\Debug\TCP Client.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 11\TCP Client\obj\Debug\TCP Client.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 11\TCP Client\obj\Debug\TCP Client.csprojResolveAssemblyReference.cache

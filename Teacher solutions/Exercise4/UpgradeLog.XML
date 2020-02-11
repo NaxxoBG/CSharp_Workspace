@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Exercise3">
+</Property><Property Name="Solution File" Value="C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Exercise3.sln">
+</Property><Property Name="User Options File" Value="C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Exercise3.suo">
+</Property><Property Name="Date" Value="7. februar 2008">
+</Property><Property Name="Time" Value="11:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Exercise3.sln" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\Exercise3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Exercise3.suo" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\Exercise3.suo">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Project file successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\ConsoleApplication1.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Company.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\Company.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Employee.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\Employee.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\FullTimeEmployee.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\FullTimeEmployee.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\PartTimeEmployee.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\PartTimeEmployee.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Program.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\VitusBering\INETI2\Exercises\Solutions\Exercise3\Backup\ConsoleApplication1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Exercise3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Exercise3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="ConsoleApplication1\ConsoleApplication1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApplication.ModalDialogNewMedia"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication"
+        mc:Ignorable="d" Height="311.6" Width="305" MinWidth="305" MinHeight="278">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="37*"/>
+            <RowDefinition Height="46*"/>
+        </Grid.RowDefinitions>
+        <Grid Margin="10,10,10.4,10.4" Grid.RowSpan="2" MinHeight="262.4">
+            <Label Content="Title:" Margin="32,23,196,0" VerticalAlignment="Top" Height="25"/>
+            <Label Content="Artist:" Margin="32,69,196,0" VerticalAlignment="Top" Height="25"/>
+            <Label Content="Genre:" Margin="32,119,196,0" VerticalAlignment="Top" Height="25"/>
+            <Label Content="Type:" Margin="32,166,196,0" VerticalAlignment="Top" Height="25"/>
+            <ComboBox x:Name="NewMediaType" HorizontalAlignment="Left" Margin="140,168,0,0" VerticalAlignment="Top" Width="120" Height="23">
+                <ComboBoxItem Content="CD" HorizontalAlignment="Left" Width="118.4"/>
+                <ComboBoxItem Content="DVD" HorizontalAlignment="Left" Width="118.4"/>
+            </ComboBox>
+            <TextBox x:Name="NewTitle" Height="23" Margin="140,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120"/>
+            <TextBox x:Name="NewArtist" Height="23" Margin="140,71,18,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <TextBox x:Name="NewGenre" Height="23" Margin="140,123,18,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+            <Button x:Name="AddNewItem" Content="Add" Margin="90,224,90,0" VerticalAlignment="Top" Height="28" Click="Button_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>

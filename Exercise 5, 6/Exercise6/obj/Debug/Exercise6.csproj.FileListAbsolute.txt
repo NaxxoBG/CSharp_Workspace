@@ -1,0 +1,6 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 5, 6\Exercise6\bin\Debug\Exercise6.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 5, 6\Exercise6\bin\Debug\Exercise6.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 5, 6\Exercise6\bin\Debug\Exercise6.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 5, 6\Exercise6\obj\Debug\Exercise6.csprojResolveAssemblyReference.cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 5, 6\Exercise6\obj\Debug\Exercise6.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\Exercise 5, 6\Exercise6\obj\Debug\Exercise6.pdb

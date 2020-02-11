@@ -1,0 +1,30 @@
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\VitusBering\INETI2\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\INETI2.forår2009\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Uddannelse\INETI2.forår2009\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Uddannelse\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\Animals.dll
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\VIA\DNP1 Spring 2013\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\Animals.pdb
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kf\OneDrive\VIA\DNPI1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kf\SkyDrive\VIA\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kf\SkyDrive\VIA\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kf\SkyDrive\VIA\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kf\OneDrive\VIA\DNP1\Exercises\Solutions\Exercise1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

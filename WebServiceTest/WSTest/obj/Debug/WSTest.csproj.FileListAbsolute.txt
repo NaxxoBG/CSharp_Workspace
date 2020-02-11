@@ -1,0 +1,6 @@
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\WebServiceTest\WSTest\bin\Debug\WSTest.exe.config
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\WebServiceTest\WSTest\bin\Debug\WSTest.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\WebServiceTest\WSTest\bin\Debug\WSTest.pdb
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\WebServiceTest\WSTest\obj\Debug\WSTest.csprojResolveAssemblyReference.cache
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\WebServiceTest\WSTest\obj\Debug\WSTest.exe
+C:\Users\Naxxo\OneDrive\Programming workspace\C# workspace\WebServiceTest\WSTest\obj\Debug\WSTest.pdb
